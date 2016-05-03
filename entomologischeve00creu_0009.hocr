@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./entomologischeve00creu_0009.png"; bbox 0 0 2019 3451; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 813 1041 1435 1313">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 813 1041 1435 1313">
+     <span class='ocr_line' id='line_1_1' title="bbox 1089 1041 1145 1121; baseline -0.036 0"><span class='ocrx_word' id='word_1_1' title='bbox 1089 1041 1145 1121; x_wconf 86' lang='grc' dir='ltr'>Ι.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 813 1238 1435 1313; baseline -0.002 0"><span class='ocrx_word' id='word_1_2' title='bbox 813 1238 1435 1313; x_wconf 78' lang='lat' dir='ltr'>KLEINE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 431 1407 1802 1532">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 431 1407 1802 1532">
+     <span class='ocr_line' id='line_1_3' title="bbox 431 1407 1802 1532; baseline -0.004 -1"><span class='ocrx_word' id='word_1_3' title='bbox 431 1407 1802 1532; x_wconf 66' lang='lat' dir='ltr'>BEYTRAGE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1058 1653 1179 1692">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1058 1653 1179 1692">
+     <span class='ocr_line' id='line_1_4' title="bbox 1058 1653 1179 1692; baseline -0.008 0"><span class='ocrx_word' id='word_1_4' title='bbox 1058 1653 1179 1692; x_wconf 86' lang='lat' dir='ltr'>ZUR</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 650 1790 1577 1866">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 650 1790 1577 1866">
+     <span class='ocr_line' id='line_1_5' title="bbox 650 1790 1577 1866; baseline -0.002 -1"><span class='ocrx_word' id='word_1_5' title='bbox 650 1790 961 1865; x_wconf 68' lang='grc' dir='ltr'>ΝᾸΗΕΒΝ</span> <span class='ocrx_word' id='word_1_6' title='bbox 1004 1811 1577 1866; x_wconf 77' lang='lat' dir='ltr'>BERICHTIGUNG</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 511 1960 1711 2038">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 511 1960 1711 2038">
+     <span class='ocr_line' id='line_1_6' title="bbox 511 1960 1711 2038; baseline -0.001 -1"><span class='ocrx_word' id='word_1_7' title='bbox 511 1978 923 2038; x_wconf 62' lang='lat' dir='ltr'><strong>EINIGER</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 993 1960 1711 2036; x_wconf 53' lang='lat' dir='ltr'><strong>KAFERARTEN0</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
